@@ -1,0 +1,14 @@
+127.0.0.1 - - [01/Dec/2020:07:02:46 +0900] "GET / HTTP/1.1" 404 807
+0:0:0:0:0:0:0:1 - - [01/Dec/2020:07:07:17 +0900] "GET /finalProject/list.jsp HTTP/1.1" 200 3572
+0:0:0:0:0:0:0:1 - - [01/Dec/2020:07:07:17 +0900] "GET /finalProject/style.css HTTP/1.1" 200 1197
+0:0:0:0:0:0:0:1 - - [01/Dec/2020:07:07:19 +0900] "GET /finalProject/read.jsp?num=4&nowPage=1&keyField=&keyWord= HTTP/1.1" 200 1983
+0:0:0:0:0:0:0:1 - - [01/Dec/2020:07:07:19 +0900] "GET /finalProject/style.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [01/Dec/2020:07:07:26 +0900] "GET /finalProject/reply.jsp?nowPage=1 HTTP/1.1" 200 1693
+0:0:0:0:0:0:0:1 - - [01/Dec/2020:07:07:26 +0900] "GET /finalProject/update.jsp?nowPage=1&num=4 HTTP/1.1" 200 1744
+0:0:0:0:0:0:0:1 - - [01/Dec/2020:07:07:26 +0900] "GET /finalProject/style.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [01/Dec/2020:07:07:37 +0900] "POST /finalProject/boardUpdate HTTP/1.1" 404 835
+0:0:0:0:0:0:0:1 - - [01/Dec/2020:07:10:54 +0900] "GET /finalProject/list.jsp HTTP/1.1" 200 3572
+0:0:0:0:0:0:0:1 - - [01/Dec/2020:07:10:54 +0900] "GET /finalProject/style.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [01/Dec/2020:07:10:56 +0900] "GET /finalProject/post.jsp HTTP/1.1" 200 1750
+0:0:0:0:0:0:0:1 - - [01/Dec/2020:07:10:56 +0900] "GET /finalProject/style.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [01/Dec/2020:07:11:08 +0900] "POST /finalProject/boardPost HTTP/1.1" 404 833
